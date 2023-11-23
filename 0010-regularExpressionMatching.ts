@@ -1,0 +1,1 @@
+const isMatch = (s: string, p: string): boolean => (new RegExp(`^${p.replace(/\*+/g, '*')}$`)).test(s);

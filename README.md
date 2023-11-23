@@ -13,3 +13,4 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0007-reverseInteger.ts) |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0008-stringToTnteger.ts) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0009-palindromeNumber.ts) |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0010-regularExpressionMatching.ts) |
