@@ -15,3 +15,4 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0009-palindromeNumber.ts) |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0010-regularExpressionMatching.ts) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0011-containerWithMostWater.ts) |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0012-integerToRoman.ts) |
