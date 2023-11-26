@@ -19,3 +19,4 @@
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0013-romanToInteger.ts) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0014-longestCommonPrefix.ts) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0015-3sum.ts) |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0016-3sumClosest.ts) |
