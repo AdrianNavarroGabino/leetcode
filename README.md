@@ -22,4 +22,5 @@
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0016-3sumClosest.ts) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0017-letterCombinationsOfAPhoneNumber.ts) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0018-4sum.ts) |
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0019-removeNthNodeFromEndOfList.ts) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0019-removeNthNodeFromEndOfList.ts) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0020-validParentheses.ts) |
