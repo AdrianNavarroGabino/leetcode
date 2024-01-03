@@ -24,3 +24,4 @@
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0018-4sum.ts) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0019-removeNthNodeFromEndOfList.ts) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0020-validParentheses.ts) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0021-mergeTwoSortedLists.ts) |
