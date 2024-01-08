@@ -29,3 +29,4 @@
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0023-mergeKSortedLists.ts) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0024-swapNodesInPairs.ts) |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0025-reverseNodesInKGroup.ts) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0026-removeDuplicatesFromSortedArray.ts) |
