@@ -34,3 +34,4 @@
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0028-findTheIndexOfTheFirstOccurrenceInAString.ts) |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0029-divideTwoIntegers.ts) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0030-substringWithConcatenationOfAllWords.ts) |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0031-nextPermutation.ts) |
