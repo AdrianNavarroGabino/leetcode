@@ -37,3 +37,4 @@
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0031-nextPermutation.ts) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0033-searchInRotatedSortedArray.ts) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0034-findFirstAndLastPositionOfElementInSortedArray.ts) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0035-searchInsertPosition.ts) |
