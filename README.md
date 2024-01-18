@@ -39,3 +39,4 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0034-findFirstAndLastPositionOfElementInSortedArray.ts) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0035-searchInsertPosition.ts) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0036-validSudoku.ts) |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0038-countAndSay.ts) |
