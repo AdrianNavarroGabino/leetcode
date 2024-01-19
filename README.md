@@ -40,3 +40,4 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0035-searchInsertPosition.ts) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0036-validSudoku.ts) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0038-countAndSay.ts) |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0041-firstMissingPositive.ts) |
