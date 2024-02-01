@@ -14,3 +14,4 @@
 | 0443 | [String Compression](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/LeetCode75/0009-stringCompression.ts) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/LeetCode75/0010-moveZeroes.ts) |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/LeetCode75/0011-isSubsequence.ts) |
+| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=leetcode-75) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/LeetCode75/0012-containerWithMostWater.ts) |
