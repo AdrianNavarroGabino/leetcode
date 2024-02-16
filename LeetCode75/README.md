@@ -29,3 +29,4 @@
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/?envType=study-plan-v2&envId=leetcode-75) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/LeetCode75/0025-asteroidCollision.ts) |
 | 0394 | [Decode String](https://leetcode.com/problems/decode-string/description/?envType=study-plan-v2&envId=leetcode-75) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/LeetCode75/0026-decodeString.ts) |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/?envType=study-plan-v2&envId=leetcode-75) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/LeetCode75/0027-numberOfRecentCalls.ts) |
+| 0649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/?envType=study-plan-v2&envId=leetcode-75) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/LeetCode75/0028-dota2Senate.ts) |
