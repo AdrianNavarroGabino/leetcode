@@ -41,3 +41,4 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0036-validSudoku.ts) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0038-countAndSay.ts) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0041-firstMissingPositive.ts) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0050-powxN.ts) |
