@@ -46,3 +46,4 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0066-plusOne.ts) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0067-addBinary.ts) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0069-sqrtx.ts) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0070-climbingStairs.ts) |
