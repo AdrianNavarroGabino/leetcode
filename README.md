@@ -48,3 +48,4 @@
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0069-sqrtx.ts) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0070-climbingStairs.ts) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0083-removeDuplicatesFromSortedList.ts) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0088-mergeSortedArray.ts) |
