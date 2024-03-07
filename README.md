@@ -48,6 +48,7 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0067-addBinary.ts) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0069-sqrtx.ts) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0070-climbingStairs.ts) |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0073-setMatrixZeroes.ts) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0079-wordSearch.ts) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0083-removeDuplicatesFromSortedList.ts) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0088-mergeSortedArray.ts) |
