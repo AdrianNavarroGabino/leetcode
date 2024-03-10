@@ -51,6 +51,7 @@
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0073-setMatrixZeroes.ts) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0074-searchA2dMatrix.ts) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0075-sortColors.ts) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0078-subsets.ts) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0079-wordSearch.ts) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0083-removeDuplicatesFromSortedList.ts) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0088-mergeSortedArray.ts) |
