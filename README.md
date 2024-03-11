@@ -44,6 +44,7 @@
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0050-powxN.ts) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0056-mergeIntervals.ts) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0058-lengthOfLastWord.ts) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0061-rotateList.ts) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0066-plusOne.ts) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0067-addBinary.ts) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0069-sqrtx.ts) |
