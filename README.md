@@ -41,6 +41,7 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0036-validSudoku.ts) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0038-countAndSay.ts) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0041-firstMissingPositive.ts) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0048-rotateImage.ts) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0049-groupAnagrams.ts) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0050-powxN.ts) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0056-mergeIntervals.ts) |
