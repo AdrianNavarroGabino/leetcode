@@ -59,3 +59,4 @@
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0083-removeDuplicatesFromSortedList.ts) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0088-mergeSortedArray.ts) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0118-pascalsTriangle.ts) |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0119-pascalsTriangleII.ts) |
