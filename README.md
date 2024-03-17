@@ -61,3 +61,4 @@
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0118-pascalsTriangle.ts) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0119-pascalsTriangleII.ts) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0121-bestTimeToBuyAndSellStock.ts) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0122-bestTimeToBuyAndSellStockII.ts) |
