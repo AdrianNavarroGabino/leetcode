@@ -35,6 +35,7 @@
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0029-divideTwoIntegers.ts) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0030-substringWithConcatenationOfAllWords.ts) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0031-nextPermutation.ts) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0032-longestValidParentheses.ts) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0033-searchInRotatedSortedArray.ts) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0034-findFirstAndLastPositionOfElementInSortedArray.ts) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0035-searchInsertPosition.ts) |
