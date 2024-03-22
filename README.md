@@ -66,4 +66,5 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0125-validPalindrome.ts) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0136-singleNumber.ts) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0137-singleNumberII.ts) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0169-majorityElement.ts) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
