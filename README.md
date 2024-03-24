@@ -67,5 +67,6 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0136-singleNumber.ts) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0137-singleNumberII.ts) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0169-majorityElement.ts) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0175-combineTwoTables.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0182-duplicateEmails.sql) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
