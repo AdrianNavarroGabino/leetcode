@@ -72,4 +72,5 @@
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0181-employeesEarningMoreThanTheirManagers.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0182-duplicateEmails.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0183-customersWhoNeverOrder.sql) |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0184-departmentHighestSalary.sql) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
