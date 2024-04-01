@@ -69,6 +69,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0169-majorityElement.ts) |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0175-combineTwoTables.sql) |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0176-secondHighestSalary.sql) |
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0177-nthHighestSalary.sql) |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0180-consecutiveNumbers.sql) |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0181-employeesEarningMoreThanTheirManagers.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0182-duplicateEmails.sql) |
