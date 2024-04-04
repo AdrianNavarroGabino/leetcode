@@ -76,6 +76,7 @@
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0182-duplicateEmails.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0183-customersWhoNeverOrder.sql) |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0184-departmentHighestSalary.sql) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0196-deleteDuplicateEmails.sql) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0197-risingTemperature.sql) |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
