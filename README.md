@@ -84,4 +84,5 @@
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0586-customerPlacingTheLargestNumberOfOrders.sql) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0595-bigCountries.sql) |
+| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0596-classesMoreThan5Students.sql) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
