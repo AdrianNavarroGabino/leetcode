@@ -86,4 +86,5 @@
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0595-bigCountries.sql) |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0596-classesMoreThan5Students.sql) |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0607-salesPerson.sql) |
+| 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0608-treeNode.sql) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
