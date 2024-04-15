@@ -81,6 +81,7 @@
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0197-risingTemperature.sql) |
 | 202 | [Rising Temperature](https://leetcode.com/problems/happy-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0202-happyNumber.ts) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0203-removeLinkedListElements.ts) |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0204-countPrimes.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
