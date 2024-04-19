@@ -83,6 +83,7 @@
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0203-removeLinkedListElements.ts) |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0204-countPrimes.ts) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0205-isomorphicStrings.ts) |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0215-kthLargestElementInAnArray.ts) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0217-containsDuplicate.ts) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0219-containsDuplicateII.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
