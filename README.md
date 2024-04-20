@@ -86,6 +86,7 @@
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0215-kthLargestElementInAnArray.ts) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0217-containsDuplicate.ts) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0219-containsDuplicateII.ts) |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0228-summaryRanges.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
