@@ -89,6 +89,7 @@
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0228-summaryRanges.ts) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0231-powerOfTwo.ts) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0234-palindromeLinkedList.ts) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0242-validAnagram.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
