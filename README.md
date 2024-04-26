@@ -92,6 +92,7 @@
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0240-searchA2dMatrixII.ts) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0242-validAnagram.ts) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0258-addDigits.ts) |
+| 263 | [Ugly Numbers](https://leetcode.com/problems/ugly-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0263-uglyNumber.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
