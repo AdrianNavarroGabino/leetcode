@@ -94,6 +94,7 @@
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0258-addDigits.ts) |
 | 263 | [Ugly Numbers](https://leetcode.com/problems/ugly-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0263-uglyNumber.ts) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0268-missingNumber.ts) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0292-nimGame.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
