@@ -110,3 +110,4 @@
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0608-treeNode.sql) |
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0610-triangleJudgement.sql) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
