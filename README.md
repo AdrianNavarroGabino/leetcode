@@ -114,5 +114,6 @@
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0610-triangleJudgement.sql) |
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0619-biggestSingleNumber.sql) |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0620-notBoringMovies.sql) |
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0627-swapSalary.sql) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
