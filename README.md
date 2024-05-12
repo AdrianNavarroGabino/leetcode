@@ -100,6 +100,7 @@
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0338-countingBits.ts) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0344-reverseString.ts) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0367-validPerfectSquare.ts) |
+| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0378-kthSmallestElementInASortedMatrix.ts) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0383-ransomNote.ts) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0387-firstUniqueCharacterInAString.ts) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0389-findTheDifference.ts) |
