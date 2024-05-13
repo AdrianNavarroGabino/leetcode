@@ -119,3 +119,4 @@
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1050-actorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql) |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1068-productSalesAnalysisI.sql) |
