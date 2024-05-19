@@ -106,6 +106,7 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0387-firstUniqueCharacterInAString.ts) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0389-findTheDifference.ts) |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0409-longestPalindrome.ts) |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0455-assignCookies.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
@@ -124,3 +125,4 @@
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1050-actorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql) |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1068-productSalesAnalysisI.sql) |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1075-projectEmployeesI.sql) |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1148-articleViewsI.sql) |
