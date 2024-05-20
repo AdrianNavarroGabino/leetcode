@@ -107,6 +107,7 @@
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0389-findTheDifference.ts) |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0409-longestPalindrome.ts) |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0455-assignCookies.ts) |
+| 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0459-repeatedSubstringPattern.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
