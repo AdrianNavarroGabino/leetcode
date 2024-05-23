@@ -108,6 +108,7 @@
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0409-longestPalindrome.ts) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0412-fizzBuzz.ts) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0414-thirdMaximumNumber.ts) |
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0434-numberOfSegmentsInAString.ts) |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0455-assignCookies.ts) |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0459-repeatedSubstringPattern.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
