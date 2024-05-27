@@ -132,4 +132,5 @@
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1050-actorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql) |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1068-productSalesAnalysisI.sql) |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1075-projectEmployeesI.sql) |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1141-userActivityForThePast30DaysI.sql) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1148-articleViewsI.sql) |
