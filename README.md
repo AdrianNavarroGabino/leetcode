@@ -135,3 +135,4 @@
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1075-projectEmployeesI.sql) |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1141-userActivityForThePast30DaysI.sql) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1148-articleViewsI.sql) |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1211-queriesQualityAndPercentage.sql) |
