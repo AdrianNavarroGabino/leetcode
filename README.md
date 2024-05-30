@@ -115,6 +115,7 @@
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0459-repeatedSubstringPattern.ts) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0461-hammingDistance.ts) |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0476-numberComplement.ts) |
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0482-licenseKeyFormatting.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
