@@ -138,3 +138,4 @@
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1148-articleViewsI.sql) |
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1211-queriesQualityAndPercentage.sql) |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1221-splitAStringInBalancedStrings.ts) |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3110-scoreOfAString.ts) |
