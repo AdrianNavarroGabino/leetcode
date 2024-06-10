@@ -130,6 +130,7 @@
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0620-notBoringMovies.sql) |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0627-swapSalary.sql) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0771-jewelsAndStones.ts) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1045-customersWhoBoughtAllProducts.sql) |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1050-actorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql) |
