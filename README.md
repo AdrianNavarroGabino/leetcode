@@ -143,6 +143,7 @@
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1252-cellsWithOddValuesInAMatrix.ts) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1512-numberOfGoodPairs.ts) |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1672-richestCustomerWealth.ts) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1757-recyclableAndLowFatProducts.sql) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1920-buildArrayFromPermutation.ts) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1929-concatenationOfarray.ts) |
