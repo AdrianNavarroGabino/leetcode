@@ -148,6 +148,7 @@
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1920-buildArrayFromPermutation.ts) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1929-concatenationOfarray.ts) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2011-finalValueOfVariableAfterPerformingOperations.ts) |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2356-numberOfUniqueSubjectsTaughtByEachTeacher.sql) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2469-convertTheTemperature.ts) |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2703-returnLengthOfArgumentsPassed.ts) |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2723-addTwoPromises.ts) |
