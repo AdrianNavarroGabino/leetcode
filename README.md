@@ -147,6 +147,7 @@
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1693-dailyLeadsAndPartners.sql) |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1741-findTotalTimeSpentByEachEmployee.sql) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1757-recyclableAndLowFatProducts.sql) |
+| 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1795-rearrangeProductsTable.sql) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1920-buildArrayFromPermutation.ts) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1929-concatenationOfarray.ts) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2011-finalValueOfVariableAfterPerformingOperations.ts) |
