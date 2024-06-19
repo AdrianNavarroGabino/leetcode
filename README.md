@@ -144,6 +144,7 @@
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1512-numberOfGoodPairs.ts) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1672-richestCustomerWealth.ts) |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1683-invalidTweets.sql) |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1693-dailyLeadsAndPartners.sql) |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1741-findTotalTimeSpentByEachEmployee.sql) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1757-recyclableAndLowFatProducts.sql) |
