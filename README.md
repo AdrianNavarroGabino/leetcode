@@ -141,6 +141,7 @@
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1211-queriesQualityAndPercentage.sql) |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1221-splitAStringInBalancedStrings.ts) |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1252-cellsWithOddValuesInAMatrix.ts) |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1378-replaceEmployeeIdWithTheUniqueIdentifier.sql) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1512-numberOfGoodPairs.ts) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1672-richestCustomerWealth.ts) |
