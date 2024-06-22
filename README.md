@@ -142,6 +142,7 @@
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1221-splitAStringInBalancedStrings.ts) |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1252-cellsWithOddValuesInAMatrix.ts) |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1378-replaceEmployeeIdWithTheUniqueIdentifier.sql) |
+| 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1393-capitalGainloss.sql) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1512-numberOfGoodPairs.ts) |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1587-bankAccountSummaryII.sql) |
