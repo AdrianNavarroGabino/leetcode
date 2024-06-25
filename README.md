@@ -156,6 +156,7 @@
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1890-theLatestLoginIn2020.sql) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1920-buildArrayFromPermutation.ts) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1929-concatenationOfarray.ts) |
+| 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1965-employeesWithMissingInformation.sql) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2011-finalValueOfVariableAfterPerformingOperations.ts) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2235-addTwoIntegers.ts) |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2356-numberOfUniqueSubjectsTaughtByEachTeacher.sql) |
