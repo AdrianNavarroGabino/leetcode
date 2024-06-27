@@ -164,4 +164,5 @@
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2703-returnLengthOfArgumentsPassed.ts) |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2723-addTwoPromises.ts) |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2769-findTheMaximumAchievableNumber.ts) |
+| 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2894-divisibleAndNonDivisibleSumsDifference.ts) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3110-scoreOfAString.ts) |
