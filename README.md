@@ -161,6 +161,7 @@
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2011-finalValueOfVariableAfterPerformingOperations.ts) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2235-addTwoIntegers.ts) |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2356-numberOfUniqueSubjectsTaughtByEachTeacher.sql) |
+| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2413-smallestEvenMultiple.ts) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2469-convertTheTemperature.ts) |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2703-returnLengthOfArgumentsPassed.ts) |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2723-addTwoPromises.ts) |
