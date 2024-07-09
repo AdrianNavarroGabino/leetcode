@@ -135,6 +135,7 @@
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1045-customersWhoBoughtAllProducts.sql) |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1050-actorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql) |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1051-heightChecker.ts) |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1068-productSalesAnalysisI.sql) |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1075-projectEmployeesI.sql) |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1141-userActivityForThePast30DaysI.sql) |
