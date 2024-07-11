@@ -152,6 +152,7 @@
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1581-customerWhoVisitedButDidNotMakeAnyTransactions.sql) |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1587-bankAccountSummaryII.sql) |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1661-averageTimeOfProcessPerMachine.sql) |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1662-checkIfTwoStringArraysAreEquivalent.sql) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1672-richestCustomerWealth.ts) |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1683-invalidTweets.sql) |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1688-countOfMatchesInTournament.ts) |
