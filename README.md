@@ -144,6 +144,7 @@
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1221-splitAStringInBalancedStrings.ts) |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1252-cellsWithOddValuesInAMatrix.ts) |
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1327-listTheProductsOrderedInAPeriod.sql) |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1342-numberOfStepsToReduceANumberToZero.ts) |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1378-replaceEmployeeIdWithTheUniqueIdentifier.sql) |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1393-capitalGainloss.sql) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
