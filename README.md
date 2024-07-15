@@ -161,6 +161,7 @@
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1729-findFollowersCount.sql) |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1741-findTotalTimeSpentByEachEmployee.sql) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1757-recyclableAndLowFatProducts.sql) |
+| 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1773-countItemsMatchingARule.ts) |
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1789-primaryDepartmentForEachEmployee.sql) |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1795-rearrangeProductsTable.sql) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1816-truncateSentence.ts) |
