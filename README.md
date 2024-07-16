@@ -150,6 +150,7 @@
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1484-groupSoldProductsByTheDate.sql) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1512-numberOfGoodPairs.ts) |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1528-shuffleString.ts) |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1581-customerWhoVisitedButDidNotMakeAnyTransactions.sql) |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1587-bankAccountSummaryII.sql) |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1661-averageTimeOfProcessPerMachine.sql) |
