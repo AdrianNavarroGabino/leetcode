@@ -176,6 +176,7 @@
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2006-countNumberOfPairsWithAbsoluteDifferenceK.ts) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2011-finalValueOfVariableAfterPerformingOperations.ts) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2235-addTwoIntegers.ts) |
+| 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2315-countAsterisks.ts) |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2356-numberOfUniqueSubjectsTaughtByEachTeacher.sql) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2413-smallestEvenMultiple.ts) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2469-convertTheTemperature.ts) |
