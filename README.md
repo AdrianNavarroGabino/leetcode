@@ -187,6 +187,7 @@
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2635-applyTransformOverEachElementInArray.ts) |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2652-sumMultiples.ts) |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2703-returnLengthOfArgumentsPassed.ts) |
+| 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2710-removeTrailingZerosFromAString.ts) |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2723-addTwoPromises.ts) |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2727-isObjectEmpty.ts) |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2769-findTheMaximumAchievableNumber.ts) |
