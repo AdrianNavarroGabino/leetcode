@@ -118,6 +118,7 @@
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0482-licenseKeyFormatting.ts) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0485-maxConsecutiveOnes.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
+| 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0561-arrayPartition.ts) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0586-customerPlacingTheLargestNumberOfOrders.sql) |
