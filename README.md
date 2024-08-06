@@ -147,6 +147,7 @@
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1323-maximum69Number.ts) |
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1327-listTheProductsOrderedInAPeriod.sql) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1342-numberOfStepsToReduceANumberToZero.ts) |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1351-countNegativeNumbersInASortedMatrix.ts) |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1378-replaceEmployeeIdWithTheUniqueIdentifier.sql) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1380-luckyNumbersInAMatrix.ts) |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1393-capitalGainloss.sql) |
