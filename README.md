@@ -144,6 +144,7 @@
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1211-queriesQualityAndPercentage.sql) |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1221-splitAStringInBalancedStrings.ts) |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1252-cellsWithOddValuesInAMatrix.ts) |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1295-findNumbersWithEvenNumberOfDigits.ts) |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1323-maximum69Number.ts) |
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1327-listTheProductsOrderedInAPeriod.sql) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1342-numberOfStepsToReduceANumberToZero.ts) |
