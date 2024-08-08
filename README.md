@@ -167,6 +167,7 @@
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1693-dailyLeadsAndPartners.sql) |
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1729-findFollowersCount.sql) |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1741-findTotalTimeSpentByEachEmployee.sql) |
+| 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1748-sumOfUniqueElements.ts) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1757-recyclableAndLowFatProducts.sql) |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1773-countItemsMatchingARule.ts) |
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1789-primaryDepartmentForEachEmployee.sql) |
