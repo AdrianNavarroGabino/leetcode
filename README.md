@@ -177,6 +177,7 @@
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1816-truncateSentence.ts) |
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1890-theLatestLoginIn2020.sql) |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1907-countSalaryCategories.sql) |
+| 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1910-removeAllOccurrencesOfASubstring.ts) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1920-buildArrayFromPermutation.ts) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1929-concatenationOfarray.ts) |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1941-checkIfAllCharactersHaveEqualNumberOfOccurrences.ts) |
