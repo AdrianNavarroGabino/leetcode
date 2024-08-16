@@ -209,6 +209,7 @@
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2824-countPairsWhoseSumIsLessThanTarget.ts) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2894-divisibleAndNonDivisibleSumsDifference.ts) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2942-findWordsContainingCharacter.ts) |
+| 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2951-findThePeaks.ts) |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2956-findCommonElementsBetweenTwoArrays.ts) |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3005-countElementsWithMaximumFrequency.ts) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3110-scoreOfAString.ts) |
