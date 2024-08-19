@@ -194,6 +194,7 @@
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2221-findTriangularSumOfAnArray.ts) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2235-addTwoIntegers.ts) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2315-countAsterisks.ts) |
+| 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2341-maximumNumberOfPairsInArray.ts) |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2356-numberOfUniqueSubjectsTaughtByEachTeacher.sql) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2413-smallestEvenMultiple.ts) |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2427-numberOfCommonFactors.ts) |
