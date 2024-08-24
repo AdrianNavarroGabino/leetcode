@@ -210,6 +210,7 @@
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2710-removeTrailingZerosFromAString.ts) |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2723-addTwoPromises.ts) |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2727-isObjectEmpty.ts) |
+| 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2733-neitherMinimumNorMaximum.ts) |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2769-findTheMaximumAchievableNumber.ts) |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2824-countPairsWhoseSumIsLessThanTarget.ts) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2894-divisibleAndNonDivisibleSumsDifference.ts) |
