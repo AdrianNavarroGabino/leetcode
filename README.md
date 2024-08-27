@@ -194,6 +194,7 @@
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2032-twoOutOfThree.ts) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2089-findTargetIndicesAfterSortingArray.ts) |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2119-aNumberAfterADoubleReversal.ts) |
+| 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2160-minimumSumOfFourDigitNumberAfterSplittingDigits.ts) |
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2221-findTriangularSumOfAnArray.ts) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2235-addTwoIntegers.ts) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2315-countAsterisks.ts) |
