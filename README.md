@@ -188,6 +188,7 @@
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1812-determineColorOfAChessboardSquare.ts) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1816-truncateSentence.ts) |
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1890-theLatestLoginIn2020.sql) |
+| 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1894-findTheStudentThatWillReplaceTheChalk.sql) |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1907-countSalaryCategories.sql) |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1910-removeAllOccurrencesOfASubstring.ts) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1920-buildArrayFromPermutation.ts) |
