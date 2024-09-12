@@ -229,6 +229,7 @@
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2727-isObjectEmpty.ts) |
 | 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2733-neitherMinimumNorMaximum.ts) |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2769-findTheMaximumAchievableNumber.ts) |
+| 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2810-faultyKeyboard.ts) |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2824-countPairsWhoseSumIsLessThanTarget.ts) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2894-divisibleAndNonDivisibleSumsDifference.ts) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2942-findWordsContainingCharacter.ts) |
