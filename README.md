@@ -224,6 +224,7 @@
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2553-separateTheDigitsInAnArray.ts) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2574-leftAndRightSumDifferences.ts.ts) |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2621-sleep.ts) |
+| 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2626-arrayReduceTransformation.ts) |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2635-applyTransformOverEachElementInArray.ts) |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2643-rowWithMaximumOnes.ts) |
 | 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2648-generateFibonacciSequence.ts) |
