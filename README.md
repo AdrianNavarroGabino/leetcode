@@ -247,6 +247,7 @@
 | 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2951-findThePeaks.ts) |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2956-findCommonElementsBetweenTwoArrays.ts) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2965-findMissingAndRepeatedValues.ts) |
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2974-minimumNumberGame.ts) |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3005-countElementsWithMaximumFrequency.ts) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3110-scoreOfAString.ts) |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3151-specialArrayI.ts) |
