@@ -172,6 +172,7 @@
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1407-topTravellers.sql) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1484-groupSoldProductsByTheDate.sql) |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1486-xorOperationInAnArray.ts) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1512-numberOfGoodPairs.ts) |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1528-shuffleString.ts) |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1581-customerWhoVisitedButDidNotMakeAnyTransactions.sql) |
