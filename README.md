@@ -251,6 +251,7 @@
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2965-findMissingAndRepeatedValues.ts) |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2974-minimumNumberGame.ts) |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3005-countElementsWithMaximumFrequency.ts) |
+| 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3065-minimumOperationsToExceedThresholdValueI.ts) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3110-scoreOfAString.ts) |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3151-specialArrayI.ts) |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3131-findTheIntegerAddedToArrayI.ts) |
