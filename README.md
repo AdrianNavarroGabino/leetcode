@@ -239,6 +239,7 @@
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2703-returnLengthOfArgumentsPassed.ts) |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2710-removeTrailingZerosFromAString.ts) |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2723-addTwoPromises.ts) |
+| 2724 | [Sort By](https://leetcode.com/problems/sort-by/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2724-sortBy.ts) |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2727-isObjectEmpty.ts) |
 | 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2733-neitherMinimumNorMaximum.ts) |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2769-findTheMaximumAchievableNumber.ts) |
