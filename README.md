@@ -170,6 +170,7 @@
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1389-createTargetArrayInTheGivenOrder.ts) |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1393-capitalGainloss.sql) |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1407-topTravellers.sql) |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1464-maximumProductOfTwoElementsInAnArray.ts) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1484-groupSoldProductsByTheDate.sql) |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1486-xorOperationInAnArray.ts) |
