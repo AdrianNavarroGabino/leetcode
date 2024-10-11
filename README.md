@@ -237,6 +237,7 @@
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2643-rowWithMaximumOnes.ts) |
 | 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2648-generateFibonacciSequence.ts) |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2652-sumMultiples.ts) |
+| 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2656-maximumSumWithExactlyKElements.ts) |
 | 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2695-arrayWrapper.ts) |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2703-returnLengthOfArgumentsPassed.ts) |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2710-removeTrailingZerosFromAString.ts) |
