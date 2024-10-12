@@ -210,6 +210,7 @@
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2022-convert1dArrayInto2dArray.ts) |
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2028-findMissingObservations.ts) |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2032-twoOutOfThree.ts) |
+| 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2053-kthDistinctStringInAnArray.ts) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2089-findTargetIndicesAfterSortingArray.ts) |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2119-aNumberAfterADoubleReversal.ts) |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2160-minimumSumOfFourDigitNumberAfterSplittingDigits.ts) |
