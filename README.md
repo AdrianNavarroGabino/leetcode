@@ -246,6 +246,7 @@
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2724-sortBy.ts) |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2727-isObjectEmpty.ts) |
 | 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2733-neitherMinimumNorMaximum.ts) |
+| 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2744-findMaximumNumberOfStringPairs.ts) |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2769-findTheMaximumAchievableNumber.ts) |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2810-faultyKeyboard.ts) |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2824-countPairsWhoseSumIsLessThanTarget.ts) |
