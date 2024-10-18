@@ -231,7 +231,8 @@
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2469-convertTheTemperature.ts) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2520-countTheDigitsThatDivideANumber.ts) |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2553-separateTheDigitsInAnArray.ts) |
-| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2574-leftAndRightSumDifferences.ts.ts) |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2574-leftAndRightSumDifferences.ts) |
+| 2620 | [Counter](https://leetcode.com/problems/counter/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2620-counter.ts) |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2621-sleep.ts) |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2626-arrayReduceTransformation.ts) |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2634-filterElementsFromArray.ts) |
