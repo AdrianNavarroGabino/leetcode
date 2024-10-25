@@ -275,4 +275,5 @@
 | 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3194-minimumAverageOfSmallestAndLargestElements.ts) |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3232-findIfDigitGameCanBeWon.ts) |
 | 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3280-convertDateToBinary.ts) |
+| 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3285-findIndicesOfStableMountains.ts) |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3289-theTwoSneakyNumbersOfDigitville.ts) |
