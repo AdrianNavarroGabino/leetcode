@@ -235,6 +235,7 @@
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2520-countTheDigitsThatDivideANumber.ts) |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2553-separateTheDigitsInAnArray.ts) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2574-leftAndRightSumDifferences.ts) |
+| 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2610-convertAnArrayIntoA2dArrayWithConditions.ts) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2620-counter.ts) |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2621-sleep.ts) |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2626-arrayReduceTransformation.ts) |
