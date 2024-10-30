@@ -173,6 +173,7 @@
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1436-destinationCity.ts) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1464-maximumProductOfTwoElementsInAnArray.ts) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1480-runningSumOf1dArray.ts) |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1484-groupSoldProductsByTheDate.sql) |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1486-xorOperationInAnArray.ts) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1512-numberOfGoodPairs.ts) |
