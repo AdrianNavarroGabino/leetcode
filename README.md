@@ -178,6 +178,7 @@
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1486-xorOperationInAnArray.ts) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1512-numberOfGoodPairs.ts) |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1528-shuffleString.ts) |
+| 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1561-maximumNumberOfCoinsYouCanGet.ts) |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1581-customerWhoVisitedButDidNotMakeAnyTransactions.sql) |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1587-bankAccountSummaryII.sql) |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1636-sortArrayByIncreasingFrequency.ts) |
