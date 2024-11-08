@@ -203,6 +203,7 @@
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1832-checkIfTheSentenceIsPangram.ts) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1844-replaceAllDigitsWithCharacters.ts) |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1859-sortingTheSentence.ts) |
+| 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1877-minimizeMaximumPairSumInArray.ts) |
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1890-theLatestLoginIn2020.sql) |
 | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1894-findTheStudentThatWillReplaceTheChalk.sql) |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1907-countSalaryCategories.sql) |
