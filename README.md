@@ -269,6 +269,7 @@
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2744-findMaximumNumberOfStringPairs.ts) |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2769-findTheMaximumAchievableNumber.ts) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2778-sumOfSquaresOfSpecialElements.ts) |
+| 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2785-sortVowelsInAString.ts) |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2798-numberOfEmployeesWhoMetTheTarget.ts) |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2810-faultyKeyboard.ts) |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2824-countPairsWhoseSumIsLessThanTarget.ts) |
