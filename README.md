@@ -138,6 +138,7 @@
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0626-exchangeSeats.sql) |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0627-swapSalary.sql) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0728-selfDividingNumbers.ts) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0771-jewelsAndStones.ts) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0811-subdomainVisitCount.ts) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
