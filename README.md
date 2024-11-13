@@ -173,6 +173,7 @@
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1393-capitalGainloss.sql) |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1407-topTravellers.sql) |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1436-destinationCity.ts) |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1441-buildAnArrayWithStackOperations.ts) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1464-maximumProductOfTwoElementsInAnArray.ts) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1480-runningSumOf1dArray.ts) |
