@@ -249,6 +249,7 @@
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2418-sortThePeople.ts) |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2427-numberOfCommonFactors.ts) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2469-convertTheTemperature.ts) |
+| 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2500-deleteGreatestValueInEachRow.ts) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2520-countTheDigitsThatDivideANumber.ts) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2535-differenceBetweenElementSumAndDigitSumOfAnArray.ts) |
 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2545-sortTheStudentsByTheirKthScore.ts) |
