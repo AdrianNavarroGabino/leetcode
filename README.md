@@ -265,6 +265,7 @@
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2635-applyTransformOverEachElementInArray.ts) |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2643-rowWithMaximumOnes.ts) |
 | 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2648-generateFibonacciSequence.ts) |
+| 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2651-calculateDelayedArrivalTime.ts) |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2652-sumMultiples.ts) |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2656-maximumSumWithExactlyKElements.ts) |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2665-counterII.ts) |
