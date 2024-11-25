@@ -210,6 +210,7 @@
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1816-truncateSentence.ts) |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1827-minimumOperationsToMakeTheArrayIncreasing.ts) |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1832-checkIfTheSentenceIsPangram.ts) |
+| 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1837-sumOfDigitsInBaseK.ts) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1844-replaceAllDigitsWithCharacters.ts) |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1859-sortingTheSentence.ts) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1877-minimizeMaximumPairSumInArray.ts) |
