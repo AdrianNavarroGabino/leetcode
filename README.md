@@ -273,6 +273,7 @@
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2656-maximumSumWithExactlyKElements.ts) |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2665-counterII.ts) |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2667-createHelloWorldFunction.ts) |
+| 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2670-findTheDistinctDifferenceArray.ts) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2678-numberOfSeniorCitizens.ts) |
 | 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2695-arrayWrapper.ts) |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2703-returnLengthOfArgumentsPassed.ts) |
