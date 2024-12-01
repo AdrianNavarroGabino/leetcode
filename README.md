@@ -114,6 +114,7 @@
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0415-addStrings.ts) |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0434-numberOfSegmentsInAString.ts) |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0441-arrangingCoins.ts) |
+| 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0442-findAllDuplicatesInAnArray.ts) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0448-findAllNumbersDisappearedInAnArray.ts) |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0455-assignCookies.ts) |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0459-repeatedSubstringPattern.ts) |
