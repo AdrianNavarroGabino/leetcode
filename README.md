@@ -143,6 +143,7 @@
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0771-jewelsAndStones.ts) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0811-subdomainVisitCount.ts) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
+| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0884-uncommonWordsFromTwoSentences.ts) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0905-sortArrayByParity.ts) |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0961-nRepeatedElementInSize2nArray.ts) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1021-removeOutermostParentheses.ts) |
