@@ -178,6 +178,7 @@
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1407-topTravellers.sql) |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1436-destinationCity.ts) |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1441-buildAnArrayWithStackOperations.ts) |
+| 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1460-makeTwoArraysEqualByReversingSubarrays.ts) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1464-maximumProductOfTwoElementsInAnArray.ts) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1470-shuffleTheArray.ts) |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1475-finalPricesWithASpecialDiscountInAShop.ts) |
