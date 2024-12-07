@@ -45,6 +45,7 @@
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0048-rotateImage.ts) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0049-groupAnagrams.ts) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0050-powxN.ts) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0053-maximumSubarray.ts) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0056-mergeIntervals.ts) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0058-lengthOfLastWord.ts) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0061-rotateList.ts) |
