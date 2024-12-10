@@ -53,6 +53,7 @@
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0065-validNumber.ts) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0066-plusOne.ts) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0067-addBinary.ts) |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0068-textJustification.ts) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0069-sqrtx.ts) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0070-climbingStairs.ts) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0073-setMatrixZeroes.ts) |
