@@ -310,6 +310,7 @@
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2974-minimumNumberGame.ts) |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3005-countElementsWithMaximumFrequency.ts) |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3016-minimumNumberOfPushesToTypeWordII.ts) |
+| 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3028-antOnTheBoundary.ts) |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3065-minimumOperationsToExceedThresholdValueI.ts) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3110-scoreOfAString.ts) |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3151-specialArrayI.ts) |
