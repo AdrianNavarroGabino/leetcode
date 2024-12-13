@@ -150,6 +150,7 @@
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0884-uncommonWordsFromTwoSentences.ts) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0905-sortArrayByParity.ts) |
+| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0944-deleteColumnsToMakeSorted.ts) |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0961-nRepeatedElementInSize2nArray.ts) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1021-removeOutermostParentheses.ts) |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1045-customersWhoBoughtAllProducts.sql) |
