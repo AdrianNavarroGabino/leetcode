@@ -255,6 +255,7 @@
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2221-findTriangularSumOfAnArray.ts) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2235-addTwoIntegers.ts) |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2236-rootEqualsSumOfChildren.ts) |
+| 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2278-percentageOfLetterInString.ts) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2315-countAsterisks.ts) |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2325-decodeTheMessage.ts) |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2341-maximumNumberOfPairsInArray.ts) |
