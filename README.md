@@ -222,6 +222,7 @@
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1837-sumOfDigitsInBaseK.ts) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1844-replaceAllDigitsWithCharacters.ts) |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1859-sortingTheSentence.ts) |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1876-substringsOfSizeThreeWithDistinctCharacters.ts) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1877-minimizeMaximumPairSumInArray.ts) |
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1890-theLatestLoginIn2020.sql) |
 | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1894-findTheStudentThatWillReplaceTheChalk.sql) |
