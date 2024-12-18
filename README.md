@@ -267,6 +267,7 @@
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2413-smallestEvenMultiple.ts) |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2418-sortThePeople.ts) |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2427-numberOfCommonFactors.ts) |
+| 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2441-largestPositiveIntegerThatExistsWithItsNegative.ts) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2469-convertTheTemperature.ts) |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2500-deleteGreatestValueInEachRow.ts) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2520-countTheDigitsThatDivideANumber.ts) |
