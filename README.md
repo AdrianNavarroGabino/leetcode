@@ -262,6 +262,7 @@
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2315-countAsterisks.ts) |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2325-decodeTheMessage.ts) |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2341-maximumNumberOfPairsInArray.ts) |
+| 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2351-firstLetterToAppearTwice.ts) |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2356-numberOfUniqueSubjectsTaughtByEachTeacher.sql) |
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2363-mergeSimilarItems.ts) |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2367-numberOfArithmeticTriplets.ts) |
