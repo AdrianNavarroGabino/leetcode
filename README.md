@@ -254,6 +254,7 @@
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2169-countOperationsToObtainZero.ts) |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2176-countEqualAndDivisiblePairsInAnArray.ts) |
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2185-countingWordsWithAGivenPrefix.ts) |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2206-divideArrayIntoEqualPairs.ts) |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2220-minimumBitFlipsToConvertNumber.ts) |
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2221-findTriangularSumOfAnArray.ts) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2235-addTwoIntegers.ts) |
