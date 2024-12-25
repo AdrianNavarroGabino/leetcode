@@ -280,6 +280,7 @@
 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2545-sortTheStudentsByTheirKthScore.ts) |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2553-separateTheDigitsInAnArray.ts) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2574-leftAndRightSumDifferences.ts) |
+| 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2595-numberOfEvenAndOddBits.ts) |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2610-convertAnArrayIntoA2dArrayWithConditions.ts) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2620-counter.ts) |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2621-sleep.ts) |
