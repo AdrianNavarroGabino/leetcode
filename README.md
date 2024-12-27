@@ -312,6 +312,7 @@
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2798-numberOfEmployeesWhoMetTheTarget.ts) |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2810-faultyKeyboard.ts) |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2824-countPairsWhoseSumIsLessThanTarget.ts) |
+| 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2843-countSymmetricIntegers.ts) |
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2864-maximumOddBinaryNumber.ts) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2894-divisibleAndNonDivisibleSumsDifference.ts) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2942-findWordsContainingCharacter.ts) |
