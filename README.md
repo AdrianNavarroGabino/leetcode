@@ -322,6 +322,7 @@
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2843-countSymmetricIntegers.ts) |
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2864-maximumOddBinaryNumber.ts) |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2879-displayTheFirstThreeRows.py) |
+| 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2882-dropDuplicateRows.py) |
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2888-reshapeDataConcatenate.py) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2894-divisibleAndNonDivisibleSumsDifference.ts) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2942-findWordsContainingCharacter.ts) |
