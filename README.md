@@ -321,6 +321,7 @@
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2824-countPairsWhoseSumIsLessThanTarget.ts) |
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2843-countSymmetricIntegers.ts) |
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2864-maximumOddBinaryNumber.ts) |
+| 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2878-getTheSizeOfADataframe.py) |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2879-displayTheFirstThreeRows.py) |
 | 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2882-dropDuplicateRows.py) |
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2888-reshapeDataConcatenate.py) |
