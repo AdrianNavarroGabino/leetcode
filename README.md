@@ -324,6 +324,7 @@
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2878-getTheSizeOfADataframe.py) |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2879-displayTheFirstThreeRows.py) |
 | 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2882-dropDuplicateRows.py) |
+| 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2884-modifyColumns.py) |
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2888-reshapeDataConcatenate.py) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2894-divisibleAndNonDivisibleSumsDifference.ts) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2942-findWordsContainingCharacter.ts) |
