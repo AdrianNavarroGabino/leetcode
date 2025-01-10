@@ -323,6 +323,7 @@
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2864-maximumOddBinaryNumber.ts) |
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2878-getTheSizeOfADataframe.py) |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2879-displayTheFirstThreeRows.py) |
+| 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2881-createANewColumn.py) |
 | 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2882-dropDuplicateRows.py) |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2884-modifyColumns.py) |
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2888-reshapeDataConcatenate.py) |
