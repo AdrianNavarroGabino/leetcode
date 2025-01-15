@@ -211,6 +211,7 @@
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1693-dailyLeadsAndPartners.sql) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1704-determineIfStringHalvesAreAlike.ts) |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1716-calculateMoneyInLeetcodeBank.ts) |
+| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1720-decodeXORedArray.ts) |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1725-numberOfRectanglesThatCanFormTheLargestSquare.ts) |
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1729-findFollowersCount.sql) |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1741-findTotalTimeSpentByEachEmployee.sql) |
