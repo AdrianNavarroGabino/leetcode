@@ -329,6 +329,7 @@
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2884-modifyColumns.py) |
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2886-changeDataType.py) |
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2888-reshapeDataConcatenate.py) |
+| 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2890-reshapeDataMelt.py) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2894-divisibleAndNonDivisibleSumsDifference.ts) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2942-findWordsContainingCharacter.ts) |
 | 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2951-findThePeaks.ts) |
