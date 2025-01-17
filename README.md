@@ -327,6 +327,7 @@
 | 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2881-createANewColumn.py) |
 | 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2882-dropDuplicateRows.py) |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2884-modifyColumns.py) |
+| 2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2885-renameColumns.py) |
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2886-changeDataType.py) |
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2888-reshapeDataConcatenate.py) |
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2890-reshapeDataMelt.py) |
