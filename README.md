@@ -322,6 +322,7 @@
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2798-numberOfEmployeesWhoMetTheTarget.ts) |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2810-faultyKeyboard.ts) |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2824-countPairsWhoseSumIsLessThanTarget.ts) |
+| 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2828-checkIfAStringIsAnAcronymOfWords.ts) |
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2843-countSymmetricIntegers.ts) |
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2864-maximumOddBinaryNumber.ts) |
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2878-getTheSizeOfADataframe.py) |
