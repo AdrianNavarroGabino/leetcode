@@ -147,6 +147,7 @@
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0728-selfDividingNumbers.ts) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0771-jewelsAndStones.ts) |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0804-uniqueMorseCodeWords.ts) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0811-subdomainVisitCount.ts) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0884-uncommonWordsFromTwoSentences.ts) |
