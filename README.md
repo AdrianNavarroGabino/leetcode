@@ -203,6 +203,7 @@
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1588-sumOfAllOddLengthSubarrays.ts) |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1636-sortArrayByIncreasingFrequency.ts) |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1641-countSortedVowelStrings.ts) |
+| 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1652-defuseTheBomb.ts) |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1661-averageTimeOfProcessPerMachine.sql) |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1662-checkIfTwoStringArraysAreEquivalent.sql) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1672-richestCustomerWealth.ts) |
