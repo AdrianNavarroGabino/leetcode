@@ -159,6 +159,7 @@
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1002-findCommonCharacters.ts) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1021-removeOutermostParentheses.ts) |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1045-customersWhoBoughtAllProducts.sql) |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1046-lastStoneWeight.ts) |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1050-actorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1051-heightChecker.ts) |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1068-productSalesAnalysisI.sql) |
