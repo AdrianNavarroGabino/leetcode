@@ -228,6 +228,7 @@
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1812-determineColorOfAChessboardSquare.ts) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1816-truncateSentence.ts) |
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1817-findingTheUsersActiveMinutes.ts) |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1822-signOfTheProductOfAnArray.ts) |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1827-minimumOperationsToMakeTheArrayIncreasing.ts) |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1832-checkIfTheSentenceIsPangram.ts) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1837-sumOfDigitsInBaseK.ts) |
