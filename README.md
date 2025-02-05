@@ -308,6 +308,7 @@
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2626-arrayReduceTransformation.ts) |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2634-filterElementsFromArray.ts) |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2635-applyTransformOverEachElementInArray.ts) |
+| 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2639-findTheWidthOfColumnsOfAGrid.ts) |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2643-rowWithMaximumOnes.ts) |
 | 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2648-generateFibonacciSequence.ts) |
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2651-calculateDelayedArrivalTime.ts) |
