@@ -322,6 +322,7 @@
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2678-numberOfSeniorCitizens.ts) |
 | 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2695-arrayWrapper.ts) |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2703-returnLengthOfArgumentsPassed.ts) |
+| 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2704-toBeOrNotToBe.ts) |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2710-removeTrailingZerosFromAString.ts) |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2723-addTwoPromises.ts) |
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2724-sortBy.ts) |
