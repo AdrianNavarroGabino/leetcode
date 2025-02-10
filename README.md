@@ -199,6 +199,7 @@
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1480-runningSumOf1dArray.ts) |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1484-groupSoldProductsByTheDate.sql) |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1486-xorOperationInAnArray.ts) |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1491-averageSalaryExcludingTheMinimumAndMaximumSalary.ts) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1512-numberOfGoodPairs.ts) |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1528-shuffleString.ts) |
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1561-maximumNumberOfCoinsYouCanGet.ts) |
