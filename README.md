@@ -383,4 +383,5 @@
 | 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3280-convertDateToBinary.ts) |
 | 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3285-findIndicesOfStableMountains.ts) |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3289-theTwoSneakyNumbersOfDigitville.ts) |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3345-smallestDivisibleDigitProductI.ts) |
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3370-smallestNumberWithAllSetBits.ts) |
