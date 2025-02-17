@@ -309,6 +309,7 @@
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2574-leftAndRightSumDifferences.ts) |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2586-countTheNumberOfVowelStringsInRange.ts) |
 | 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2595-numberOfEvenAndOddBits.ts) |
+| 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2605-formSmallestNumberFromTwoDigitArrays.ts) |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2610-convertAnArrayIntoA2dArrayWithConditions.ts) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2620-counter.ts) |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2621-sleep.ts) |
