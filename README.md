@@ -214,6 +214,7 @@
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1652-defuseTheBomb.ts) |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1661-averageTimeOfProcessPerMachine.sql) |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1662-checkIfTwoStringArraysAreEquivalent.sql) |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1667-fixNamesInATable.sql) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1672-richestCustomerWealth.ts) |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1683-invalidTweets.sql) |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1684-countTheNumberOfConsistentStrings.ts) |
