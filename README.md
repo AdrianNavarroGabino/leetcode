@@ -288,6 +288,7 @@
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2235-addTwoIntegers.ts) |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2236-rootEqualsSumOfChildren.ts) |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2255-countPrefixesOfAGivenString.ts) |
+| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2264-largest3SameDigitNumberInString.ts) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2278-percentageOfLetterInString.ts) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2315-countAsterisks.ts) |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2325-decodeTheMessage.ts) |
