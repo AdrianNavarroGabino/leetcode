@@ -167,6 +167,7 @@
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1051-heightChecker.ts) |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1068-productSalesAnalysisI.sql) |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1075-projectEmployeesI.sql) |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1089-duplicateZeros.ts) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1108-defangingAnIpAddress.ts) |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1141-userActivityForThePast30DaysI.sql) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1148-articleViewsI.sql) |
