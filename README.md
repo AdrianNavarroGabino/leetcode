@@ -398,3 +398,4 @@
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3289-theTwoSneakyNumbersOfDigitville.ts) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3345-smallestDivisibleDigitProductI.ts) |
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3370-smallestNumberWithAllSetBits.ts) |
+| 3465 | [Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3465-findProductsWithValidSerialNumbers.sql) |
