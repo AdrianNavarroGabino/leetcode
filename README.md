@@ -380,6 +380,7 @@
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2974-minimumNumberGame.ts) |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3005-countElementsWithMaximumFrequency.ts) |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3016-minimumNumberOfPushesToTypeWordII.ts) |
+| 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3024-typeOfTriangle.ts) |
 | 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3028-antOnTheBoundary.ts) |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3065-minimumOperationsToExceedThresholdValueI.ts) |
 | 3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3083-existenceOfASubstringInAStringAndItsReverse.ts) |
