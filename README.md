@@ -82,6 +82,7 @@
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0184-departmentHighestSalary.sql) |
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0185-departmentTopThreeSalaries.sql) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0191-numberOf1Bits.ts) |
+| 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0195-tenthLine.sh) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0196-deleteDuplicateEmails.sql) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0197-risingTemperature.sql) |
 | 202 | [Rising Temperature](https://leetcode.com/problems/happy-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0202-happyNumber.ts) |
