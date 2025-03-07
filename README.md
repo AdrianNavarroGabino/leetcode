@@ -389,6 +389,7 @@
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3110-scoreOfAString.ts) |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3120-countTheNumberOfSpecialCharactersI.ts) |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3131-findTheIntegerAddedToArrayI.ts) |
+| 3136 | [Valid Word](https://leetcode.com/problems/valid-word/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3136-validWord.ts) |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3151-specialArrayI.ts) |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3158-findTheXOROfNumbersWhichAppearTwice.ts) |
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3162-findTheNumberOfGoodPairsI.ts) |
