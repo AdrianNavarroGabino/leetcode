@@ -296,6 +296,7 @@
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2221-findTriangularSumOfAnArray.ts) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2235-addTwoIntegers.ts) |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2236-rootEqualsSumOfChildren.ts) |
+| 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2239-findClosestNumberToZero.ts) |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2255-countPrefixesOfAGivenString.ts) |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2264-largest3SameDigitNumberInString.ts) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2278-percentageOfLetterInString.ts) |
