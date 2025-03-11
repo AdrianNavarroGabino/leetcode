@@ -353,6 +353,7 @@
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2724-sortBy.ts) |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2727-isObjectEmpty.ts) |
 | 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2733-neitherMinimumNorMaximum.ts) |
+| 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2739-totalDistanceTraveled.ts) |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2744-findMaximumNumberOfStringPairs.ts) |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2769-findTheMaximumAchievableNumber.ts) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2778-sumOfSquaresOfSpecialElements.ts) |
