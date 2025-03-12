@@ -153,6 +153,7 @@
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0804-uniqueMorseCodeWords.ts) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0811-subdomainVisitCount.ts) |
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0824-goatLatin.ts) |
+| 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0859-buddyStrings.ts) |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0860-lemonadeChange.ts) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0884-uncommonWordsFromTwoSentences.ts) |
