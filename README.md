@@ -242,6 +242,7 @@
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1773-countItemsMatchingARule.ts) |
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1789-primaryDepartmentForEachEmployee.sql) |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1795-rearrangeProductsTable.sql) |
+| 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1805-numberOfDifferentIntegersInAString.ts) |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1812-determineColorOfAChessboardSquare.ts) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1816-truncateSentence.ts) |
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1817-findingTheUsersActiveMinutes.ts) |
