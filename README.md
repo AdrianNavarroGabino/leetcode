@@ -217,6 +217,7 @@
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1528-shuffleString.ts) |
 | 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1556-thousandSeparator.ts) |
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1561-maximumNumberOfCoinsYouCanGet.ts) |
+| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1576-replaceAllSToAvoidConsecutiveRepeatingCharacters.ts) |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1581-customerWhoVisitedButDidNotMakeAnyTransactions.sql) |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1587-bankAccountSummaryII.sql) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1588-sumOfAllOddLengthSubarrays.ts) |
