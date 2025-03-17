@@ -153,6 +153,7 @@
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0771-jewelsAndStones.ts) |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0804-uniqueMorseCodeWords.ts) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0811-subdomainVisitCount.ts) |
+| 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0819-mostCommonWord.ts) |
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0824-goatLatin.ts) |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0859-buddyStrings.ts) |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0860-lemonadeChange.ts) |
