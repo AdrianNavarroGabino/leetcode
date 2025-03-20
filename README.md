@@ -150,6 +150,7 @@
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0728-selfDividingNumbers.ts) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0744-findSmallestLetterGreaterThanTarget.ts) |
+| 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0747-largestNumberAtLeastTwiceOfOthers.ts) |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0766-toeplitzMatrix.ts) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0771-jewelsAndStones.ts) |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0804-uniqueMorseCodeWords.ts) |
