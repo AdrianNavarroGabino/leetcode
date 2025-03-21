@@ -317,6 +317,7 @@
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2363-mergeSimilarItems.ts) |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2367-numberOfArithmeticTriplets.ts) |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2396-strictlyPalindromicNumber.ts) |
+| 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2404-mostFrequentEvenElement.ts) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2413-smallestEvenMultiple.ts) |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2418-sortThePeople.ts) |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2427-numberOfCommonFactors.ts) |
