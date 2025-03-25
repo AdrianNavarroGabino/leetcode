@@ -247,6 +247,7 @@
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1748-sumOfUniqueElements.ts) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1757-recyclableAndLowFatProducts.sql) |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1773-countItemsMatchingARule.ts) |
+| 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1780-checkIfNumberIsASumOfPowersOfThree.ts) |
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1789-primaryDepartmentForEachEmployee.sql) |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1795-rearrangeProductsTable.sql) |
 | 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1805-numberOfDifferentIntegersInAString.ts) |
