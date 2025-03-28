@@ -206,6 +206,7 @@
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1393-capitalGainloss.sql) |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1403-minimumSubsequenceInNonIncreasingOrder.ts) |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1407-topTravellers.sql) |
+| 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1417-reformatTheString.ts) |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1436-destinationCity.ts) |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1437-checkIfAll1sAreAtLeastLengthKPlacesAway.ts) |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1441-buildAnArrayWithStackOperations.ts) |
