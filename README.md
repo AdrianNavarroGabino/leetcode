@@ -221,6 +221,7 @@
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1491-averageSalaryExcludingTheMinimumAndMaximumSalary.ts) |
 | 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1507-reformatDate.ts) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1512-numberOfGoodPairs.ts) |
+| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1517-findUsersWithValidEMails.sql) |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1528-shuffleString.ts) |
 | 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1556-thousandSeparator.ts) |
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1561-maximumNumberOfCoinsYouCanGet.ts) |
