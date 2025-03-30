@@ -327,6 +327,7 @@
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2418-sortThePeople.ts) |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2427-numberOfCommonFactors.ts) |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2441-largestPositiveIntegerThatExistsWithItsNegative.ts) |
+| 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2446-determineIfTwoEventsHaveConflict.ts) |
 | 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2465-numberOfDistinctAverages.ts) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2469-convertTheTemperature.ts) |
 | 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2486-appendCharactersToStringToMakeSubsequence.ts) |
