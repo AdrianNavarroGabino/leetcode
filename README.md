@@ -130,6 +130,7 @@
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0485-maxConsecutiveOnes.ts) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0509-fibonacciNumber.ts) |
 | 511 | [Happy Number](https://leetcode.com/problems/game-play-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0511-gamePlayAnalysisI.sql) |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0520-detectCapital.ts) |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0541-reverseStringII.ts) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0557-reverseWordsInAStringIII.ts) |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0561-arrayPartition.ts) |
