@@ -254,6 +254,7 @@
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1780-checkIfNumberIsASumOfPowersOfThree.ts) |
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1789-primaryDepartmentForEachEmployee.sql) |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1795-rearrangeProductsTable.sql) |
+| 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1796-secondLargestDigitInAString.ts) |
 | 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1805-numberOfDifferentIntegersInAString.ts) |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1812-determineColorOfAChessboardSquare.ts) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1816-truncateSentence.ts) |
