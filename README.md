@@ -315,6 +315,7 @@
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2236-rootEqualsSumOfChildren.ts) |
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2239-findClosestNumberToZero.ts) |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2255-countPrefixesOfAGivenString.ts) |
+| 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2259-removeDigitFromNumberToMaximizeResult.ts) |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2264-largest3SameDigitNumberInString.ts) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2278-percentageOfLetterInString.ts) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2315-countAsterisks.ts) |
