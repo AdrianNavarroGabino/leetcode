@@ -230,6 +230,7 @@
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1581-customerWhoVisitedButDidNotMakeAnyTransactions.sql) |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1587-bankAccountSummaryII.sql) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1588-sumOfAllOddLengthSubarrays.ts) |
+| 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1592-rearrangeSpacesBetweenWords.ts) |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1636-sortArrayByIncreasingFrequency.ts) |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1641-countSortedVowelStrings.ts) |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1652-defuseTheBomb.ts) |
