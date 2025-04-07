@@ -295,6 +295,7 @@
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2028-findMissingObservations.ts) |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2032-twoOutOfThree.ts) |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2053-kthDistinctStringInAnArray.ts) |
+| 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2057-smallestIndexWithEqualValue.ts) |
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2085-countCommonWordsWithOneOccurrence.ts) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2089-findTargetIndicesAfterSortingArray.ts) |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2108-findFirstPalindromicStringInTheArray.ts) |
