@@ -331,6 +331,7 @@
 | 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2404-mostFrequentEvenElement.ts) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2413-smallestEvenMultiple.ts) |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2418-sortThePeople.ts) |
+| 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2423-removeLetterToEqualizeFrequency.ts) |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2427-numberOfCommonFactors.ts) |
 | 2437 | [Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2437-numberOfValidClockTimes.ts) |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2441-largestPositiveIntegerThatExistsWithItsNegative.ts) |
