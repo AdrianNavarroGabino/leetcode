@@ -439,3 +439,4 @@
 | 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3407-substringMatchingPattern.ts) |
 | 3465 | [Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3465-findProductsWithValidSerialNumbers.sql) |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3467-transformArrayByParity.ts) |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3498-reverseDegreeOfAString.ts) |
