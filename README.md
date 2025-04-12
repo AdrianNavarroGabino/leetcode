@@ -418,6 +418,7 @@
 | 3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3083-existenceOfASubstringInAStringAndItsReverse.ts) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3110-scoreOfAString.ts) |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3120-countTheNumberOfSpecialCharactersI.ts) |
+| 3127 | [Make a Square with the Same Color](https://leetcode.com/problems/make-a-square-with-the-same-color/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3127-makeASquareWithTheSameColor.ts) |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3131-findTheIntegerAddedToArrayI.ts) |
 | 3136 | [Valid Word](https://leetcode.com/problems/valid-word/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3136-validWord.ts) |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3151-specialArrayI.ts) |
