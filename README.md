@@ -254,6 +254,7 @@
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1729-findFollowersCount.sql) |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1741-findTotalTimeSpentByEachEmployee.sql) |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1748-sumOfUniqueElements.ts) |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1752-checkIfArrayIsSortedAndRotated.ts) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1757-recyclableAndLowFatProducts.sql) |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1773-countItemsMatchingARule.ts) |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1780-checkIfNumberIsASumOfPowersOfThree.ts) |
