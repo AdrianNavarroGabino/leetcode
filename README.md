@@ -211,6 +211,7 @@
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1380-luckyNumbersInAMatrix.ts) |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1389-createTargetArrayInTheGivenOrder.ts) |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1393-capitalGainloss.sql) |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1399-countLargestGroup.ts) |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1403-minimumSubsequenceInNonIncreasingOrder.ts) |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1407-topTravellers.sql) |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1417-reformatTheString.ts) |
