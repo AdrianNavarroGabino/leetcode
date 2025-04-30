@@ -305,6 +305,7 @@
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2022-convert1dArrayInto2dArray.ts) |
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2028-findMissingObservations.ts) |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2032-twoOutOfThree.ts) |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2042-checkIfNumbersAreAscendingInASentence.ts) |
 | 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2047-numberOfValidWordsInASentence.ts) |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2053-kthDistinctStringInAnArray.ts) |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2057-smallestIndexWithEqualValue.ts) |
