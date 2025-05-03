@@ -464,3 +464,4 @@
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3467-transformArrayByParity.ts) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3483-unique3DigitEvenNumbers.ts) |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3498-reverseDegreeOfAString.ts) |
+| 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3512-minimumOperationsToMakeArraySumDivisibleByK.ts) |
