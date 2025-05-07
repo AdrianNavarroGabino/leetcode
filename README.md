@@ -468,3 +468,4 @@
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3483-unique3DigitEvenNumbers.ts) |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3498-reverseDegreeOfAString.ts) |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3512-minimumOperationsToMakeArraySumDivisibleByK.ts) |
+| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3516-findClosestPerson.ts) |
