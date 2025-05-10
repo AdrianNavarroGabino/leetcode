@@ -131,6 +131,7 @@
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0476-numberComplement.ts) |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0482-licenseKeyFormatting.ts) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0485-maxConsecutiveOnes.ts) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0496-nextGreaterElementI.ts) |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0506-relativeRanks.ts) |
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0507-perfectNumber.ts) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0509-fibonacciNumber.ts) |
