@@ -392,6 +392,7 @@
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2670-findTheDistinctDifferenceArray.ts) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2678-numberOfSeniorCitizens.ts) |
 | 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2695-arrayWrapper.ts) |
+| 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2697-lexicographicallySmallestPalindrome.ts) |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2703-returnLengthOfArgumentsPassed.ts) |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2704-toBeOrNotToBe.ts) |
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2706-buyTwoChocolates.ts) |
