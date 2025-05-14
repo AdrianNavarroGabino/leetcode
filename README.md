@@ -168,6 +168,7 @@
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0824-goatLatin.ts) |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0859-buddyStrings.ts) |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0860-lemonadeChange.ts) |
+| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0867-transposeMatrix.ts) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0881-boatsToSavePeople.ts) |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0884-uncommonWordsFromTwoSentences.ts) |
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0890-findAndReplacePattern.ts) |
