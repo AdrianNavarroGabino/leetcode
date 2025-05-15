@@ -461,6 +461,7 @@
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3232-findIfDigitGameCanBeWon.ts) |
 | 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3248-snakeInMatrix.ts) |
 | 3270 | [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3270-findTheKeyOfTheNumbers.ts) |
+| 3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3274-checkIfTwoChessboardSquaresHaveTheSameColor.ts) |
 | 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3280-convertDateToBinary.ts) |
 | 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3285-findIndicesOfStableMountains.ts) |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/3289-theTwoSneakyNumbersOfDigitville.ts) |
