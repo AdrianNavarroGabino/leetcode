@@ -195,6 +195,7 @@
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1141-userActivityForThePast30DaysI.sql) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1148-articleViewsI.sql) |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1154-dayOfTheYear.ts) |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/find-words-that-can-be-formed-by-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1160-findWordsThatCanBeFormedByCharacters.ts) |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1179-reformatDepartmentTable.sql) |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1185-dayOfTheWeek.ts) |
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1211-queriesQualityAndPercentage.sql) |
