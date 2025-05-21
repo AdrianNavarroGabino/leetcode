@@ -282,6 +282,7 @@
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1822-signOfTheProductOfAnArray.ts) |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1827-minimumOperationsToMakeTheArrayIncreasing.ts) |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1832-checkIfTheSentenceIsPangram.ts) |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1833-maximumIceCreamBars.ts) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1837-sumOfDigitsInBaseK.ts) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1844-replaceAllDigitsWithCharacters.ts) |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1859-sortingTheSentence.ts) |
