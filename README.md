@@ -355,6 +355,7 @@
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2367-numberOfArithmeticTriplets.ts) |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2396-strictlyPalindromicNumber.ts) |
 | 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2404-mostFrequentEvenElement.ts) |
+| 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2405-optimalPartitionOfString.ts) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2413-smallestEvenMultiple.ts) |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2418-sortThePeople.ts) |
 | 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2423-removeLetterToEqualizeFrequency.ts) |
