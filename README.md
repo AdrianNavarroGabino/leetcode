@@ -261,6 +261,7 @@
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1672-richestCustomerWealth.ts) |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1683-invalidTweets.sql) |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1684-countTheNumberOfConsistentStrings.ts) |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1685-sumOfAbsoluteDifferencesInASortedArray.ts) |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1688-countOfMatchesInTournament.ts) |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1689-partitioningIntoMinimumNumberOfDeciBinaryNumbers.ts) |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1693-dailyLeadsAndPartners.sql) |
