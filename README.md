@@ -157,6 +157,7 @@
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0628-maximumProductOfThreeNumbers.ts) |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0654-maximumBinaryTree.ts) |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0657-robotReturnToOrigin.ts) |
+| 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0690-employeeImportance.ts) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0709-toLowerCase.ts) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0728-selfDividingNumbers.ts) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0744-findSmallestLetterGreaterThanTarget.ts) |
