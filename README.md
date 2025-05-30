@@ -442,6 +442,7 @@
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2888-reshapeDataConcatenate.py) |
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2890-reshapeDataMelt.py) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2894-divisibleAndNonDivisibleSumsDifference.ts) |
+| 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2938-separateBlackAndWhiteBalls.ts) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2942-findWordsContainingCharacter.ts) |
 | 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2951-findThePeaks.ts) |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2956-findCommonElementsBetweenTwoArrays.ts) |
