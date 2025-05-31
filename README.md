@@ -178,6 +178,7 @@
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0905-sortArrayByParity.ts) |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0917-reverseOnlyLetters.ts) |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0925-longPressedName.ts) |
+| 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0932-beautifulArray.ts) |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0941-validMountainArray.ts) |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0944-deleteColumnsToMakeSorted.ts) |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0961-nRepeatedElementInSize2nArray.ts) |
