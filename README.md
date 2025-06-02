@@ -102,6 +102,7 @@
 | 263 | [Ugly Numbers](https://leetcode.com/problems/ugly-numbers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0263-uglyNumber.ts) |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0264-uglyNumberII.ts) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0268-missingNumber.ts) |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0287-findTheDuplicateNumber.ts) |
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0289-gameOfLife.ts) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0290-wordPattern.ts) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0292-nimGame.ts) |
