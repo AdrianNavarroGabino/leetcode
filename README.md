@@ -263,6 +263,7 @@
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1662-checkIfTwoStringArraysAreEquivalent.sql) |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1667-fixNamesInATable.sql) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1672-richestCustomerWealth.ts) |
+| 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1678-goalParserInterpretation.ts) |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1683-invalidTweets.sql) |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1684-countTheNumberOfConsistentStrings.ts) |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1685-sumOfAbsoluteDifferencesInASortedArray.ts) |
