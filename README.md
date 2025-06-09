@@ -355,6 +355,7 @@
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2259-removeDigitFromNumberToMaximizeResult.ts) |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2264-largest3SameDigitNumberInString.ts) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2278-percentageOfLetterInString.ts) |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2283-checkIfNumberHasEqualDigitCountAndDigitValue.ts) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2315-countAsterisks.ts) |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2325-decodeTheMessage.ts) |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2341-maximumNumberOfPairsInArray.ts) |
