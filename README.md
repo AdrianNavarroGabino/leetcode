@@ -109,6 +109,7 @@
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0292-nimGame.ts) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0326-powerOfThree.ts) |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0338-countingBits.ts) |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0342-powerOfFour.ts) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0344-reverseString.ts) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0349-intersectionOfTwoArrays.ts) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0367-validPerfectSquare.ts) |
