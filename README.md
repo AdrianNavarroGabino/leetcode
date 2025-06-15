@@ -147,6 +147,7 @@
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0557-reverseWordsInAStringIII.ts) |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0561-arrayPartition.ts) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0566-reshapeTheMatrix.ts) |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0575-distributeCandies.ts) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0577-employeeBonus.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0584-findCustomerReferee.sql) |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/0586-customerPlacingTheLargestNumberOfOrders.sql) |
