@@ -195,6 +195,7 @@
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1002-findCommonCharacters.ts) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1021-removeOutermostParentheses.ts) |
 | 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1023-camelcaseMatching.ts) |
+| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1025-divisorGame.ts) |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1037-validBoomerang.ts) |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1045-customersWhoBoughtAllProducts.sql) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1046-lastStoneWeight.ts) |
