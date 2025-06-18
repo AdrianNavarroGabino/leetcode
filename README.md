@@ -203,6 +203,7 @@
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1051-heightChecker.ts) |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1068-productSalesAnalysisI.sql) |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1075-projectEmployeesI.sql) |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1078-occurrencesAfterBigram.ts) |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1089-duplicateZeros.ts) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1108-defangingAnIpAddress.ts) |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1122-relativeSortArray.ts) |
