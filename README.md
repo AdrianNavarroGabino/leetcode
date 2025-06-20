@@ -214,6 +214,7 @@
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1179-reformatDepartmentTable.sql) |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1185-dayOfTheWeek.ts) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1189-maximumNumberOfBalloons.ts) |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1200-minimumAbsoluteDifference.ts) |
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1211-queriesQualityAndPercentage.sql) |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1221-splitAStringInBalancedStrings.ts) |
 | 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1222-queensThatCanAttackTheKing.ts) |
