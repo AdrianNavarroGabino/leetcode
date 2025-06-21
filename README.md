@@ -207,6 +207,7 @@
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1089-duplicateZeros.ts) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1108-defangingAnIpAddress.ts) |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1122-relativeSortArray.ts) |
+| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1128-numberOfEquivalentDominoPairs.ts) |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1141-userActivityForThePast30DaysI.sql) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1148-articleViewsI.sql) |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1154-dayOfTheYear.ts) |
