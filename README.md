@@ -244,6 +244,7 @@
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1399-countLargestGroup.ts) |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1403-minimumSubsequenceInNonIncreasingOrder.ts) |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1407-topTravellers.sql) |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1408-stringMatchingInAnArray.ts) |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1417-reformatTheString.ts) |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1436-destinationCity.ts) |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1437-checkIfAll1sAreAtLeastLengthKPlacesAway.ts) |
