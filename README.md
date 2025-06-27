@@ -265,6 +265,7 @@
 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1517-findUsersWithValidEMails.sql) |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1518-waterBottles.ts) |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1528-shuffleString.ts) |
+| 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1550-threeConsecutiveOdds.ts) |
 | 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1556-thousandSeparator.ts) |
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1561-maximumNumberOfCoinsYouCanGet.ts) |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1572-matrixDiagonalSum.ts) |
