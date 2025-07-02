@@ -317,6 +317,7 @@
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1837-sumOfDigitsInBaseK.ts) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1844-replaceAllDigitsWithCharacters.ts) |
 | 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1848-minimumDistanceToTheTargetElement.ts) |
+| 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1854-maximumPopulationYear.ts) |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1859-sortingTheSentence.ts) |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1873-calculateSpecialBonus.sql) |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/1876-substringsOfSizeThreeWithDistinctCharacters.ts) |
