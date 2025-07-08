@@ -438,6 +438,7 @@
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2666-allowOneFunctionCall.ts) |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2667-createHelloWorldFunction.ts) |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2670-findTheDistinctDifferenceArray.ts) |
+| 2677 | [Chunk Array](https://leetcode.com/problems/chunk-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2677-chunkArray.ts) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2678-numberOfSeniorCitizens.ts) |
 | 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2695-arrayWrapper.ts) |
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2697-lexicographicallySmallestPalindrome.ts) |
