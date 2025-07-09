@@ -459,6 +459,7 @@
 | 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2788-splitStringsBySeparator.ts) |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2798-numberOfEmployeesWhoMetTheTarget.ts) |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2810-faultyKeyboard.ts) |
+| 2815 | [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2815-maxPairSumInAnArray.ts) |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2824-countPairsWhoseSumIsLessThanTarget.ts) |
 | 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2828-checkIfAStringIsAnAcronymOfWords.ts) |
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [TypeScript](https://github.com/AdrianNavarroGabino/leetcode/blob/main/2843-countSymmetricIntegers.ts) |
